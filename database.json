@@ -1,0 +1,9 @@
+{
+    "dev": {
+        "driver": "pg",
+        "host": "localhost",
+        "database": "scouts_db",
+        "user": "postgres",
+        "password": "postgres"
+    }
+}
